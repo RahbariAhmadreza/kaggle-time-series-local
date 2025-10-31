@@ -1,0 +1,12 @@
+__pycache__/
+/input/
+input/*
+*.csv
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+data/*
+!data/.gitkeep
+outputs/*
+kaggle.json
